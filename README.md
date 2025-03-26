@@ -1,2 +1,2 @@
 # Projeto-Array
-<img src="122">
+<img src="">
