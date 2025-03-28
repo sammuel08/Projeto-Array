@@ -2,9 +2,9 @@
 <img src="https://github.com/user-attachments/assets/1cfe6428-f779-443b-aa90-81546c44c62f">
 <p>Primeiro passo,usar o comando"git config --global" para configurar o usuário</p>
 <img src="https://github.com/user-attachments/assets/0eff2440-b655-4f67-959e-be716037dfbf">
-<p>Segundo passo, usa o comando "cd" para fazer o caminho até a pasta do projeto.Terceiro passo usar o comando "git init" para iniciar o repositório </p>
+<p>Segundo passo, usa o comando "cd" para fazer o caminho até a pasta do projeto. Terceiro passo usar o comando "git init" para iniciar o repositório </p>
 <img src="https://github.com/user-attachments/assets/30bf992c-11fc-4277-9e61-82941c1ad528">
-<p>Quarto passo usar o comando "git status" para vê como está os arquivos do repositório.Quinto passo "git add" para adicionar as mudanças</p>
+<p>Quarto passo usar o comando "git status" para ver como está os arquivos do repositório. Quinto passo "git add" para adicionar as mudanças</p>
 <img src="https://github.com/user-attachments/assets/1cb4f41d-ad1f-4d34-bd3e-8bd9e213032c">
 <p>Sexto passo "git commit -m" colocar uma mensagem ao commit e commitar</p>
 <img src="https://github.com/user-attachments/assets/eccee619-f77c-4c7e-9aec-73ad976347f8">
