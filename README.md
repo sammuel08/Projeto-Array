@@ -1,4 +1,6 @@
 # Projeto-Array
+
+<h1>Sammuel Alves de Carvalho Dias and Renato Oliveira Cordeiro</h1>
 <img src="https://github.com/user-attachments/assets/1cfe6428-f779-443b-aa90-81546c44c62f">
 <p>Primeiro passo,usar o comando"git config --global" para configurar o usuário</p>
 <img src="https://github.com/user-attachments/assets/0eff2440-b655-4f67-959e-be716037dfbf">
